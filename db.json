@@ -1,0 +1,32 @@
+{
+  "paymentReferenceItemsDetails": [
+    {
+      "referenceLists": [
+        {
+          "payRefNo": "19GT10PREZ1P3OBY",
+          "saleInvoiceNumber": "SALEINV20-23",
+          "lotNo": "1000",
+          "brokerBusinessCode": "ABROKE",
+          "buyerBusinessCode": "GTC",
+          "totRecord": 20
+        },
+        {
+          "payRefNo": "19GT10PRQJYSVL25",
+          "saleInvoiceNumber": "SALE001",
+          "lotNo": "1002",
+          "brokerBusinessCode": "ABROKE",
+          "buyerBusinessCode": "GTC",
+          "totRecord": 20
+        },
+        {
+          "payRefNo": "19GT10PRQJYS670",
+          "saleInvoiceNumber": "SALE001",
+          "lotNo": "1002",
+          "brokerBusinessCode": "ABROKE",
+          "buyerBusinessCode": "GTC",
+          "totRecord": 20
+        }
+      ]
+    }
+  ]
+}
