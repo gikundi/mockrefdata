@@ -1,7 +1,7 @@
 {
   "referenceLists": [
     {
-      "payRefNo": "19GT10PREZ1P3OBY",
+      "payRefNo": "19GT10PREZ1P3OBD",
       "saleInvoiceNumber": "SALEINV20-23",
       "lotNo": "1000",
       "brokerBusinessCode": "ABROKE",
@@ -17,7 +17,7 @@
       "totRecord": 20
     },
     {
-      "payRefNo": "19GT10PRQJYS670",
+      "payRefNo": "19GT10PRQJYS672",
       "saleInvoiceNumber": "SALE001",
       "lotNo": "1002",
       "brokerBusinessCode": "ABROKE",
